@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Qulox Business</title>
+  <desc id="desc">Blue Qulox Business icon</desc>
+  <rect width="512" height="512" rx="72" fill="#fff"/>
+  <path d="M102 205c25-80 96-132 180-132 91 0 151 59 151 142 0 17-2 34-6 50l-57 4c5-18 7-35 7-52 0-52-37-89-95-89-55 0-103 31-122 77zM73 244l70 1-1 43c0 60 43 105 104 105 54 0 94-29 114-76l53 1c-22 78-89 127-172 127-97 0-168-65-168-157z" fill="#0aa7ee"/>
+  <path d="M245 322c-15 3-28 18-28 34 0 19 15 34 34 34 18 0 32-13 35-30z" fill="#0aa7ee"/>
+  <text x="256" y="445" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-style="italic" font-weight="700" fill="#0aa7ee">business</text>
+  <rect x="220" y="458" width="72" height="35" fill="#0aa7ee"/><text x="256" y="485" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-style="italic" font-weight="700" fill="#fff">XL</text>
+</svg>
